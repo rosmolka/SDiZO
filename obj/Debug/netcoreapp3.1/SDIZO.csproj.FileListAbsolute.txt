@@ -1,0 +1,13 @@
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.csprojAssemblyReference.cache
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.AssemblyInfoInputs.cache
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.AssemblyInfo.cs
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.csproj.CoreCompileInputs.cache
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\bin\Debug\netcoreapp3.1\SDIZO.exe
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\bin\Debug\netcoreapp3.1\SDIZO.deps.json
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\bin\Debug\netcoreapp3.1\SDIZO.runtimeconfig.json
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\bin\Debug\netcoreapp3.1\SDIZO.runtimeconfig.dev.json
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\bin\Debug\netcoreapp3.1\SDIZO.dll
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\bin\Debug\netcoreapp3.1\SDIZO.pdb
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.dll
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.pdb
+C:\Users\rosmo\source\repos\SDIZO\SDIZO\obj\Debug\netcoreapp3.1\SDIZO.genruntimeconfig.cache
